@@ -2,10 +2,10 @@
 
 int main(void) {
    
-   float x = 2;
+   int x = 2;
    
    // Output
-   printf("STDOUT = %f", x);
+   printf("STDOUT = %d", x);
    
    return 0;
    }
